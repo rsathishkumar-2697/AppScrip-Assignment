@@ -33,3 +33,20 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
+Implement the HTML & CSS: Create the layout and styling according to the design provided in the Figma link. Ensure the design is responsive for mobile and tablet devices.
+
+### `Develop the Functional Page:` 
+Choose a JavaScript framework (React.js with Next.js, Angular.js, or Vue.js with Nuxt.js) to develop the functional components of the page. This includes adding interactivity, dynamic content, and any necessary logic.
+
+### `Utilize Server Side Rendering (SSR):` 
+Implement SSR if using Next.js or Nuxt.js to improve performance and SEO. This will render the page on the server before sending it to the client, resulting in faster load times and better search engine optimization.
+
+### `SEO Settings:` 
+Optimize the page for search engines by setting the page title, meta description, using appropriate heading tags (H1, H2), implementing structured data (schema settings), using SEO-friendly image names, and providing alt text for images.
+
+### `Hosting and Repository:`
+Host the page on a public service like Netlify and ensure it's shareable for evaluation. Additionally, check the code into a public GitHub repository with a name following the format provided.
+
+### `Mock API Integration (Optional):`
+If possible, integrate a mock API (e.g., from fakestoreapi.com) to populate the front-end content. This will demonstrate your ability to work with external data sources.
+
